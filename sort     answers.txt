@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Поддържа постоянна скорост при различни входове
+
+sort2 uses: Merge Sort
+
+How do you know?: По-бавно на обърнати списъци и по-бързо на подредени или почти подредени списъци.
+
+sort3 uses: Selection Sort
+
+How do you know?: Никакво забележимо подобрение на вече подредени списъци.
+
